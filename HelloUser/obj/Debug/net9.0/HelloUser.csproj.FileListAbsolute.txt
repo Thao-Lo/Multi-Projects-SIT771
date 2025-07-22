@@ -1,0 +1,14 @@
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/bin/Debug/net9.0/HelloUser
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/bin/Debug/net9.0/HelloUser.deps.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/bin/Debug/net9.0/HelloUser.runtimeconfig.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/bin/Debug/net9.0/HelloUser.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/bin/Debug/net9.0/HelloUser.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.AssemblyInfoInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.AssemblyInfo.cs
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.csproj.CoreCompileInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/refint/HelloUser.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/HelloUser.genruntimeconfig.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloUser/obj/Debug/net9.0/ref/HelloUser.dll
