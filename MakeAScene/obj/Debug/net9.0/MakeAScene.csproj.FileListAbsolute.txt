@@ -1,0 +1,14 @@
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/bin/Debug/net9.0/MakeAScene
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/bin/Debug/net9.0/MakeAScene.deps.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/bin/Debug/net9.0/MakeAScene.runtimeconfig.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/bin/Debug/net9.0/MakeAScene.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/bin/Debug/net9.0/MakeAScene.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.AssemblyInfoInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.AssemblyInfo.cs
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.csproj.CoreCompileInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/refint/MakeAScene.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/MakeAScene.genruntimeconfig.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/obj/Debug/net9.0/ref/MakeAScene.dll

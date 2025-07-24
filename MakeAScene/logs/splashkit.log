@@ -1,0 +1,2 @@
+(16/07/2025) WARNING -> Unable to locate file for Hungry (/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/MakeAScene/Resources/images/hungry_face.png) [raised in images.cpp:102]
+(16/07/2025) WARNING -> Error trying to draw bitmap: passed in bmp is an invalid bitmap pointer. [raised in images.cpp:230]
