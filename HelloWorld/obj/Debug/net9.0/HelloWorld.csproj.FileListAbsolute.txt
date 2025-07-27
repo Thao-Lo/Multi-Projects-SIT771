@@ -1,0 +1,28 @@
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
