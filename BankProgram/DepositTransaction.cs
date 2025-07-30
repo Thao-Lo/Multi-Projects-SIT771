@@ -15,38 +15,38 @@ public class DepositTransaction
     public bool Success => _success;
     public bool Reversed => _reversed;
 
-   
+
     public void Execute()  // Executes the deposit transaction
     {
         if (_executed)
         {
-             // Prevent duplicate execution
+            // Prevent duplicate execution
             throw new Exception("Cannot execute this transaction as it has already executed successfully once.");
         }
         _executed = true;
 
-          // Attempt to deposit into the account; store whether it succeeded
+        // Attempt to deposit into the account; store whether it succeeded
         _success = _account.Deposit(_amount);
     }
     public void Rollback()   // Rolls back the transaction by withdrawing the deposited amount
     {
         // 
-        if (!_executed) // Can't rollback if transaction hasn't been executed
+        if (!_executed) 
         {
             throw new Exception("Failed to execute the transaction");
         }
-        if (_reversed)  // Prevent multiple rollbacks
+        if (_reversed)  
         {
             throw new Exception("Transaction is already reversed.");
         }
-        if (_success) // Only withdraw if deposit actually happened
+        if (_success) // Only rollback if deposit actually happened
         {
             _reversed = true;
             _success = _account.Withdraw(_amount);  // reverse the deposit
         }
         else
         {
-             // Rollback not possible if deposit was never successful
+            // Rollback not possible if deposit was never successful
             throw new Exception("Cannot rollback, please contact the bank");
         }
     }
