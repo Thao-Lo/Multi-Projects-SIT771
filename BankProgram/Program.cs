@@ -39,7 +39,7 @@ namespace BankProgram
                     case MenuOption.Quit:
                         break;
                 }
-            } while (userSelection != MenuOption.Quit); //keep running until user select 3/Quit
+            } while (userSelection != MenuOption.Quit); //keep running until user select 5/Quit
 
             Console.WriteLine("Bye. ");
         }
