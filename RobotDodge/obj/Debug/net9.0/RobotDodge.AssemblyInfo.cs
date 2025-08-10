@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotDodge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc983a2c2a8577eab960e2fd98e2dd7486bc70e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc877d04722e091b50e27d158ee6d4bad52ef96")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotDodge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotDodge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

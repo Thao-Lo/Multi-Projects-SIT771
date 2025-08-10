@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakeAScene")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d09e7b2565c924622743aa4bb92a493a86e0d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc877d04722e091b50e27d158ee6d4bad52ef96")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakeAScene")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakeAScene")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

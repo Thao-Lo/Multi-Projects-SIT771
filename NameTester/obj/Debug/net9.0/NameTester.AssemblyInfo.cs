@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NameTester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73c69a97e724ddd77a7f0a97f5c365bbdf835e8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbc877d04722e091b50e27d158ee6d4bad52ef96")]
 [assembly: System.Reflection.AssemblyProductAttribute("NameTester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NameTester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
