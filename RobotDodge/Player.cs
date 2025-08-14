@@ -71,7 +71,6 @@ public class Player
         const int GAP = 10;
 
         //seperate if statement for keep checking
-
         if (X < GAP) //too far left
         {
             X = GAP;
@@ -96,6 +95,11 @@ public class Player
     {
         X += x; //update X with SPEED 
         Y += y; //update Y with SPEED 
+    }
+
+    public bool CollideWith(Robot robot) // check if Player and Robot collise
+    {
+        return _PlayerBitmap.CircleCollision(X, Y, robot.CollisionCircle);
     }
 
 }

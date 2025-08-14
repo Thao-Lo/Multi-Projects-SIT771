@@ -8,27 +8,22 @@ namespace RobotDodge
         public static void Main()
         {
             Window window = new Window("Robot Dodge By Zavis", 700, 500);
-            Player player = new Player(window);
+            // Player player = new Player(window);
+
+            RobotDodges robotDodge = new RobotDodges(window);
 
 
             while (!window.CloseRequested) // user click x on window to close the screen
             {
                 SplashKit.ProcessEvents(); //listen to user input event
-                window.Clear(Color.White);
 
-                player.Draw(window); //draw a player on window
+                robotDodge.HandleInput(); // Player input/ movements
 
-                player.HandleInput(); //press Arrow Keys to move player to X, Y direction or Quit
-
-                player.StayOnWindow(window); //stay inside window boundary
-
-                window.Refresh(60);
-
-                if (player.Quit) //when user press Escapse -> Quit == true
-                {
-                    window.Close();
-                }
+                robotDodge.Update(); //Update robot position if colliding 
+                
+                robotDodge.Draw(); // Draw or update drawing
             }
+
 
         }
 
