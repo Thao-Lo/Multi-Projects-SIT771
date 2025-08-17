@@ -1,0 +1,15 @@
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/bin/Debug/net9.0/Array
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/bin/Debug/net9.0/Array.deps.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/bin/Debug/net9.0/Array.runtimeconfig.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/bin/Debug/net9.0/Array.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/bin/Debug/net9.0/Array.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.AssemblyInfoInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.AssemblyInfo.cs
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.csproj.CoreCompileInputs.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.sourcelink.json
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/refint/Array.dll
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.pdb
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/Array.genruntimeconfig.cache
+/Users/Zavis3/Desktop/Deakin/SIT771 - Object-Oriented Development - 7102025 - 612 PM/SIT771 - Exercise/Array/obj/Debug/net9.0/ref/Array.dll
