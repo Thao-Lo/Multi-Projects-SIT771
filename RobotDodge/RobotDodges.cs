@@ -5,7 +5,7 @@ public class RobotDodges
     private Player _Player;
     private Window _GameWindow;
 
-    private Robot _TestRobot;
+    private List<Robot> _Robots; //Many robots
     public bool Quit
     {
         get
@@ -17,7 +17,7 @@ public class RobotDodges
     {
         _GameWindow = window;
         _Player = new Player(window);
-        _TestRobot = RandomRobot();
+        _Robots = []; // new List
 
     }
     public void HandleInput()
@@ -32,11 +32,14 @@ public class RobotDodges
         }
 
     }
-    public void Draw() 
+    public void Draw()
     {
         _GameWindow.Clear(Color.White);
 
-        _TestRobot.Draw(_GameWindow);
+        foreach (Robot robot in _Robots)
+        {
+            robot.Draw(_GameWindow);
+        }
 
         _Player.Draw(_GameWindow); //draw a player on window        
 
@@ -44,14 +47,42 @@ public class RobotDodges
     }
 
     public void Update() //Update the game: moving the robot and checking for collisions
-    {
-        if (_Player.CollideWith(_TestRobot))
+    {      
+        CheckCollision();
+        foreach (Robot robot in _Robots)
         {
-            _TestRobot = RandomRobot();
+            robot.Update(); //Robot moves toward to a Player      
+        }
+        if (SplashKit.Rnd() > 0.9) // randomly add robots if 0.9 < values < 1 
+        {
+            _Robots.Add(RandomRobot());
+        }
+
+    }
+    private void CheckCollision()
+    {
+        // Create new list to store all Robots need to be removed
+        List<Robot> removedRobots = new List<Robot>();
+
+        foreach (Robot robot in _Robots)
+        {
+             // Check whether Robot collides with a player or off screen
+            if (_Player.CollideWith(robot) || robot.isOffscreen(_GameWindow))
+            {
+                removedRobots.Add(robot);
+            }
+        }
+
+        // Loop through RemovedRobot List
+        foreach (Robot robot in removedRobots)
+        {
+            _Robots.Remove(robot); // Tell _Robots to remove the current removedRobot
         }
     }
+
     public Robot RandomRobot() // draw new robot on window
     {
-        return new Robot(_GameWindow);
+        return new Robot(_GameWindow, _Player);
     }
+    
 }
